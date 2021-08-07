@@ -5,8 +5,8 @@ import { getFilteredEvents } from "../../helpers/api-util";
 import useSWR from 'swr'
 import EventList from "../../components/events/event-list";
 import ResultsTitle from "../../components/events/results-title";
-import Button from "../../ui/button";
-import ErrorAlert from "../../ui/error-alert/error-alert";
+import Button from "../../components/ui/button";
+import ErrorAlert from "../../components/ui/error-alert/error-alert";
 
 export default function FilterdEventsPage(props) {
   const [events, setEvents] = useState()
