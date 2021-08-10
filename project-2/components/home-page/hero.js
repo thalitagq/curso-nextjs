@@ -13,11 +13,11 @@ export default function Hero() {
           height={300}
         />
       </div>
-      <h1>Hi, I'm Shepard</h1>
+      <h1>Hi, I'm Commander Shepard</h1>
       <p>
         I blog about my crew quest to stop the rogue Spectre Saren Arterius from
         leading an army of sentient machines, called the Geth, to conquer the
-        galaxy.
+        galaxy. 👨‍🚀️🚀️💫️
       </p>
     </section>
   );

@@ -6,3 +6,7 @@ excerpt: "A science team on Eden Prime discovered a Prothean beacon; since the b
 isFeatured: true
 ---
 
+Well...we find the beacon, but i don't remember much because, of course, it exploded in front of me 💥️ 👨‍🚀️ 💥️
+
+
+![The beacon before it explodes and tried to kill me](/images/posts/finding-the-beacon/beacon.png)
