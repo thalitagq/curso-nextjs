@@ -3,10 +3,11 @@
   height: 6rem;
   background-color: #05080D;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  padding: 0 10%;
-  box-shadow: 0 1px 3px rgba(134, 149, 168,0.12), 0 1px 2px rgba(134, 149, 168,0.12);
+  padding: 10px 10%;
+  box-shadow: 0 1px 3px rgba(61, 150, 207,0.12), 0 1px 2px rgba(61, 150, 207,0.12);
 }
 
 .header ul {

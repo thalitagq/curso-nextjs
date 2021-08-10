@@ -6,7 +6,7 @@
     #161D26
   );
   padding: var(--size-8) 0;
-  box-shadow: 0 3px 6px rgba(134, 149, 168,0.16), 0 3px 6px rgba(134, 149, 168,0.23);
+  box-shadow: 0 3px 6px rgba(61, 150, 207,0.16), 0 3px 6px rgba(61, 150, 207,0.23);
 }
 
 .image {
@@ -38,4 +38,14 @@
   width: 90%;
   max-width: 40rem;
   margin: auto;
+}
+
+@media (max-width: 400px) {
+  .image{
+    width: 150px;
+    height: 150px
+  }
+  .hero h1{
+    font-size: var(--size-8);
+  }
 }

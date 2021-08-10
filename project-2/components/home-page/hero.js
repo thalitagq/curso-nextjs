@@ -11,13 +11,14 @@ export default function Hero() {
           alt="An image shpwing commander Shepard"
           width={300}
           height={300}
+          layout="responsive"
         />
       </div>
       <h1>Hi, I'm Commander Shepard</h1>
       <p>
         I blog about my crew quest to stop the rogue Spectre Saren Arterius from
         leading an army of sentient machines, called the Geth, to conquer the
-        galaxy. 👨‍🚀️🚀️💫️
+        galaxy. <br/>👨‍🚀️🚀️💫️
       </p>
     </section>
   );

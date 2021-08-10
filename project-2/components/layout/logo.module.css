@@ -3,7 +3,7 @@
   font-size: var(--size-5);
   font-weight: bold;
   color: var(--color-grey-50);
-  margin-left: 10px;
+  margin: 0 0 0 10px;
 }
 
 .logoWrapper{
