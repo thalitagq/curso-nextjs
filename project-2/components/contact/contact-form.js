@@ -93,7 +93,7 @@ export default function ContactForm() {
       <form className={styles.form} onSubmit={sendMessageHadler}>
         <div className={styles.controls}>
           <div className={styles.control}>
-            <label htmlFor="email">Yor Email</label>
+            <label htmlFor="email">Your Email</label>
             <input
               type="email"
               id="email"
@@ -103,7 +103,7 @@ export default function ContactForm() {
             />
           </div>
           <div className={styles.control}>
-            <label htmlFor="name">Yor Name</label>
+            <label htmlFor="name">Your Name</label>
             <input
               type="text"
               id="name"
